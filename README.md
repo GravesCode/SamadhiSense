@@ -53,7 +53,8 @@ FreeRTOS is central to the **CAN-to-Ethernet Gateway** component, demonstrating 
 * Explore **over-the-air (OTA) updates** for the FreeRTOS gateway firmware.
 * Incorporate **additional sensor types** (e.g., simulated radar, camera data) for more complex ADAS scenarios.
 
-
+## Architecture
+![Architecture](./reference/architecture.png)
 
 
 
